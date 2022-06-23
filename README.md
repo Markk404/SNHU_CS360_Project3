@@ -23,4 +23,4 @@ Since this project was my first experience with Android app development, challen
 
 •	In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
-I believe I showed my skill in the creation of an effective UI. Aside from that, I am somewhat surprised myself that I got the application working by some miracle. It was very stressful. Still, it provided a unique experience and challenge to allow me grow my existing skillsets.
+I believe I showed my skill in the creation of an effective UI. Aside from that, I am somewhat surprised myself that I got the application working by some miracle. It was very stressful. Still, it provided a unique experience and challenge to allow me grow my existing skillsets. However, for the future, i will need to learn to clean up the actual folder full of the source items.
