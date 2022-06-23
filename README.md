@@ -7,7 +7,7 @@ The requirement of the application states it must be able to store an editable c
 
 •	What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
-The necessary screens for this application would be the messaging screens, the login screen, and the inventory activity screens. They were designed to be minimalistic to reduce confusion and increase user friendliness. Buttons additionally have labels and icons that denote their purpose easily. My designs were successful because I based them off of designs I have seen in the past and research done. In addition, adding more items means more work for the developer; me.
+The necessary screens for this application would be the messaging screens, the login screen, and the inventory activity screens. They were designed to be minimalistic to reduce confusion and increase user friendliness. Buttons additionally have labels and icons that denote their purpose easily. My designs were successful because I based them off of designs I have seen in the past and research done. Minimal designs make the app user friendly and adding more adds more confusion. In addition, adding more items means more work for the developer; me.
 
 •	How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
